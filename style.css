@@ -1,0 +1,24 @@
+.Java{
+    text-align: center;
+    font-family: 'Protest Guerrilla';
+    text;
+}
+h3{
+    text-shadow: 10px;
+}
+.Javajotts{
+    background: rgb(0,212,255);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 49%, rgba(19,58,182,1) 76%, rgba(23,23,166,0.989233193277311) 80%);
+    width: 50%;
+    margin: auto;
+    border-radius: 8px;
+    padding-left: 8px;
+    text-justify: auto;
+    font-family: 'Nerko one';
+    font-size: 44px;
+    
+    
+}
+body{
+    background-color: azure;
+}
