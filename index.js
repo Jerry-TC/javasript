@@ -24,7 +24,7 @@ const xname = 'Jerry';
 
 const company = 'Nedine Waters';
 
-console.log(fname + lname + sname)
+console.log(`my name is ${fname} ${lname} ${sname}`)
 console.log( xname)
 console.log(company)
 let num2 = 14;
@@ -60,7 +60,14 @@ let gname = 'John'
 console.log(gname !== 'james')
 console.log(x>y)
 console.log(x<y)
+console.log(x++)
 
 let title = 'Things fall Apart';
 
 console.log (title.length)
+console.log(title.toUpperCase())
+let me = 'HELLO'
+console.log(me)
+console.log(me.toLowerCase())
+console.log(title.charAt(5))
+
